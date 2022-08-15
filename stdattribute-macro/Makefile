@@ -1,4 +1,4 @@
-CPPFLAGS:=-std=c11 -W -Wall -pedantic -Werror
+CPPFLAGS:=-std=c2x -W -Wall -pedantic -Werror
 CFLAGS:=-O2 -save-temps
 
 .PHONY: all
